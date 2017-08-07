@@ -7,9 +7,14 @@ class ArticlesController < ApplicationController
 
   def show
     @article = Article.find(params[:id])
+
+    # Create new comment to 'tell' what fields a Comment object has
+    @comment = Comment.new
+    @comment.article_id = @article.id
   end
 
   def new
+    # created to 'tell' rails what fields an Article object has
     @article = Article.new
   end
 
