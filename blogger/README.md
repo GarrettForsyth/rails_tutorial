@@ -2,7 +2,7 @@
 
 A simple blogging app.
 
-This repo follows a tutorial at [Jumpstart Lab's Blooger Tutorial](tutorials..jumpstartlab.com/projects/blogger.html) in accordance with the [Odin Project](https://www.theodinproject.com/).
+This repo follows a tutorial at [Jumpstart Lab's Blooger Tutorial](tutorials.jumpstartlab.com/projects/blogger.html) in accordance with the [Odin Project](https://www.theodinproject.com/).
 
 This project goes over the basics of Ruby on Rails including:
 
